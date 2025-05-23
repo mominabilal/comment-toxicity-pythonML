@@ -1,6 +1,6 @@
 # comment-toxicity-pythonML
 
-This notebook demonstrates a process for building a model to classify toxic comments.
+This repository demonstrates a process for building a model to classify toxic comments.
 
 ## Project Overview
 
@@ -36,7 +36,7 @@ The model is a sequential Keras model with the following layers:
 2.  **Connect to Google Drive:** Ensure your Google Drive is mounted to access the `train.csv` file.
 3.  **Run the cells:** Execute the cells sequentially to load data, preprocess it, build and train the model, and evaluate its performance.
 
-The notebook includes steps for:
+The collab notebook includes steps for:
 
 *   Loading the data using pandas.
 *   Vectorizing the text data using `TextVectorization`.
